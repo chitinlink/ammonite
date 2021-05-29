@@ -1,0 +1,44 @@
+- name: "Conduct"
+  rules:
+    - If you're having a real argument with someone, either focus on de-escalation or deal with it privately.
+    - No violent ideation ("I want to kill this person", etc)
+    - Do not to alienate people talking about things they like or are passionate about -- If the topic itself makes you uncomfortable, say so, but do not interrupt it or disparage ("blast") it otherwise.
+    - Don't spread internet rumors -- by and large it's unconstructive and unhelpful to the server atmosphere.
+    - Avoid bringing up hot topics that exclusively derive from internet discourse.
+  text: |
+    Please be polite.
+
+    __If a moderator asks you to stop, please do.__  
+    We don't hand out punishments here nor do we have a strike system. Our moderators will simply kick you out of calls or even the server if you take it too far.
+
+    With that said, please assume our moderators act in good faith when they correct you.
+
+- name: "Restricted Content"
+  rules:
+    - |
+      This server is kept minor-friendly with the exception of the hidden channel <span class="channel">#nsfw_bathhouse</span>.  
+      If you're not sure something belongs there, assume it does.
+    - You can post non-sexual NSFW content (eg. art with blood/gore) outside that channel to a reasonable degree, as long as it is spoiled and tagged appropriately.
+    - Some of our members may require content to be tagged with triggers and we ask that you respect these once you're made aware of them.
+    - Tag your slurs.
+  text: |
+    If you tag something (as some rules ask you to), you're also expected to spoiler it.
+
+    Keep in mind that the point of tagging content is to prevent certain people from seeing it.  
+    It's not ideal if they can figure out what you're saying from context clues.
+
+    For example:
+
+    Bad  | Hey guys I was just out drinking some (alcohol) <span class="spoiler">beer</span>
+    Good | (alcohol) <span class="spoiler">Hey guys I was just out drinking some beer</span>
+
+    Despite having some limitations, you're expected to use this method.
+
+- name: "New Users"
+  text: |
+    If you want to invite someone in, you're expected to vet for them. Basically, you're partly responsible for the behavior of people you invite, at least initially.
+
+    With that in mind, please contact (ideally PM) a moderator if you want to invite someone.  
+    The request will be passed on to the mod team, who will also do a small background check, and then can either deny the request or hand you an invite.
+
+    All users, including you, join the server via this process.

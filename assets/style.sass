@@ -1,0 +1,131 @@
+---
+
+---
+
+$txt: #dcddde
+$bg: #202225
+$yellow: #FEE75C
+$blurple: #5865F2
+
+body
+  background: $bg
+  color: $txt
+  font-family: sans-serif
+  min-height: 100vh
+  display: flex
+  flex-direction: column
+  align-items: center
+
+#wrap
+  margin: auto
+  max-width: 800px
+  width: 100%
+
+#icon
+  max-width: 100vw
+  text-align: center
+  margin: 1em 0
+  img
+    width: 100%
+    max-width: 300px
+
+h1
+  text-align: center
+
+.channel
+  font-weight: bold
+  border-radius: 3px
+  padding: 0 2px
+  color: #e3e7f8
+  background: #7289da4d
+  cursor: default
+  // &:hover
+  //   text-decoration: underline
+  //   background: #7289da
+  //   color: #ffffff
+
+.spoiler
+  cursor: default
+  border-radius: 3px
+  background: black
+  color: black
+  &:hover
+    background: $bg
+    color: $txt
+
+table
+  border-collapse: collapse
+  margin: 1em 0
+  --bb: 1px solid $txt
+  border: $txt
+  td, th
+    border: var(--bb)
+    padding: 2px 4px
+    > code:only-child
+      border: 0
+      padding: 0
+      margin: 0
+  th
+    font-weight: normal
+    border-color: $bg
+  thead
+    background: $txt
+    color: $bg
+
+
+section
+  margin: 1em 0
+  h2 > a
+    text-decoration: none
+
+hr
+  margin: 2em 0
+  color: $txt
+  border-style: solid
+
+a, a:visited
+  color: $blurple
+
+
+// details
+//   padding: .5em .5em 0
+//   margin: 1em 0
+//   summary
+//     cursor: pointer
+//     font-size: 2em
+//     font-family: Georgia, serif
+//     font-weight: bold
+//     margin: -.5em -.5em 0
+//     padding: .5em
+
+//     // // This hides the little triangle
+//     // list-style: none
+//     // ::-webkit-details-marker
+//     //   display: none
+//     // // -------
+//   &[open] > summary
+//     margin: -.5em -.5em
+
+ul, ol
+  list-style-position: inside
+  padding: 0
+
+li
+  margin: 0.3em 0
+
+.rules_rule
+  display: flex
+  list-style: none
+  border: solid 2px lighten($bg, 30%)
+  padding: 1em 0
+  .rule_num
+    display: block
+    font-size: 2em
+    padding: 0 1ch
+    a
+      text-decoration: none
+  .rule_text
+    display: inline
+    padding-right: 1em
+  &:target
+    border-color: $yellow
