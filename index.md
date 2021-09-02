@@ -2,8 +2,8 @@
 layout: main
 ---
 
-<div id="icon"><img src="assets/bodiam.png"></div>
-<h1>Bodiam Rules</h1>
+<div id="icon"><img src="assets/ammonite.png"></div>
+<h1>Ammonite Rules</h1>
 {% assign rules_i = 0 %}
 {% for section in site.data.rules %}
 <section id="{{ section.name | slugify }}">

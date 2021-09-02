@@ -1,6 +1,6 @@
-title: Bodiam
-url: "https://galaxybra.in"
-baseurl: "/bodiam"
+title: Ammonite Rules
+url: "https://chitin.link"
+baseurl: "/ammonite"
 
 safe: true
 markdown: kramdown
