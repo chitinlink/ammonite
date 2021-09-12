@@ -8,6 +8,7 @@ $yellow: #FEE75C
 $blurple: #5865F2
 
 body
+  margin: 0
   background: $bg
   color: $txt
   font-family: sans-serif
@@ -15,6 +16,21 @@ body
   display: flex
   flex-direction: column
   align-items: center
+  overflow-y: scroll
+
+a, a:visited
+  color: $blurple
+
+nav
+  display: flex
+  margin: 1em auto 0 auto
+  max-width: 800px
+  width: 100%
+  a
+    border: solid 2px lighten($bg, 30%)
+    padding: .5em 1em
+    text-decoration: none
+    margin-right: 1em
 
 #wrap
   margin: auto
@@ -29,7 +45,7 @@ body
     width: 100%
     max-width: 300px
 
-h1
+h1.center
   text-align: center
 
 .channel
@@ -78,14 +94,13 @@ section
     text-decoration: none
   &:target h2
     text-decoration: underline $yellow
+  &:last-of-type
+    margin-bottom: 25vh
 
 hr
   margin: 2em 0
   color: $txt
   border-style: solid
-
-a, a:visited
-  color: $blurple
 
 ul, ol
   list-style-position: inside
@@ -100,13 +115,19 @@ li
   border: solid 2px lighten($bg, 30%)
   padding: 1em 0
   .rule_num
+    font-family: Consolas, Courier New, Courier, monospace
     display: block
     font-size: 2em
     padding: 0 1ch
     a
+      min-width: 3ch
+      display: inline-block
       text-decoration: none
   .rule_text
     display: inline
     padding-right: 1em
   &:target
     border-color: $yellow
+
+img.emoji
+  width: 2em
