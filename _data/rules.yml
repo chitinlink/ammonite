@@ -15,12 +15,11 @@
 
 - name: "Restricted Content"
   rules:
-    # Bring this back if we ever get an nsfw channel again.
-    # - |
-    #   This server is kept minor-friendly with the exception of the hidden channel <span class="channel">#nsfw_bathhouse</span>.  
-    #   If you're not sure something belongs there, assume it does.
-    # - You can post non-sexual NSFW content (eg. art with blood/gore) outside that channel to a reasonable degree, as long as it is spoiled and tagged appropriately.
-    - This server is kept minor-friendly, meaning you are not allowed to post sexual content. Non-sexual NSFW content (eg. art with blood/gore) is allowed, as long as it is spoiled and tagged appropriately.
+    - |
+      This server is kept minor-friendly with the exception of the hidden channel <span class="channel">#manhole-cover</span>.  
+      If you're not sure something belongs there, err on the side of caution and post it there.
+    - You can post non-sexual NSFW content (eg. art with blood/gore) outside that channel to a reasonable degree, as long as it is spoiled and tagged appropriately.
+    - Non-sexual NSFW content (eg. art with blood/gore) is allowed, as long as it is spoiled and tagged appropriately.
     - Some of our members may require content to be tagged with triggers and we ask that you respect these once you're made aware of them.
     - Tag your slurs, including on your profile. You will be warned once if you break this rule.
   text: |
