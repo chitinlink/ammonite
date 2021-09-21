@@ -1,5 +1,8 @@
 - name: "Conduct"
   rules:
+    - |
+      Mind the Discord [Community Guidelines](https://discord.com/guidelines) and [Terms of Service](https://discord.com/terms).
+      Violating these not only endangers the server but also the user accounts of everyone in it.
     - If you're having a real argument with someone, either focus on de-escalation or deal with it privately.
     - No violent ideation ("I want to kill this person", etc)
     - Do not to alienate people talking about things they like or are passionate about -- If the topic itself makes you uncomfortable, say so, but do not interrupt it or disparage ("blast") it otherwise.
