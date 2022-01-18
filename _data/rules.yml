@@ -4,10 +4,7 @@
       Mind the Discord [Community Guidelines](https://discord.com/guidelines) and [Terms of Service](https://discord.com/terms).
       Violating these not only endangers the server but also the user accounts of everyone in it.
     - If you're having a real argument with someone, either focus on de-escalation or deal with it privately.
-    - No violent ideation ("I want to kill this person", etc)
     - Do not to alienate people talking about things they like or are passionate about -- If the topic itself makes you uncomfortable, say so, but do not interrupt it or disparage ("blast") it otherwise.
-    - Don't spread internet rumors -- by and large it's unconstructive and unhelpful to the server atmosphere.
-    - Avoid bringing up hot topics that exclusively derive from internet discourse.
   text: |
     Please be polite.
 
@@ -21,10 +18,9 @@
     - |
       This server is kept minor-friendly with the exception of the hidden channel <span class="channel">#manhole-cover</span>.  
       If you're not sure something belongs there, err on the side of caution and post it there.
-    - You can post non-sexual NSFW content (eg. art with blood/gore) outside that channel to a reasonable degree, as long as it is tagged appropriately.
     - Non-sexual NSFW content (eg. art with blood/gore) is allowed, as long as it is tagged appropriately.
-    - Some of our members may require content to be tagged with triggers and we ask that you respect these once you're made aware of them.
     - Tag your slurs, including on your profile. You will be warned once if you break this rule.
+    - Some of our members may require content to be tagged with triggers and we ask that you respect these once you're made aware of them.
   text: |
     If you tag something (as some rules ask you to), you're also expected to spoiler it.
 
@@ -38,20 +34,20 @@
 
     Despite having some limitations, you're expected to use this method.
 
-- name: "Moderator Conduct"
-  rules:
-  - Moderators will provide concise explanations for the deletion of anyone's posts where possible, for the sake of providing context for everyone involved.
-  - |
-    Moderators cannot exercise their powers beyond the extent of reasonable moderation.  
-    Moderators should not remove posts without a tangible reason, mute or deafen members arbitrarily, move members in voice against their will, etc.
-  - Moderators are allowed to break the previous rule for fun as long as everyone involved doesn't mind and they don't overdo it.
-  text: Please PM an Administrator to raise concerns regarding moderators and their conduct.
+# - name: "Moderator Conduct"
+#   rules:
+#   - Moderators will provide concise explanations for the deletion of anyone's posts where possible, for the sake of providing context for everyone involved.
+#   - |
+#     Moderators cannot exercise their powers beyond the extent of reasonable moderation.  
+#     Moderators should not remove posts without a tangible reason, mute or deafen members arbitrarily, move members in voice against their will, etc.
+#   - Moderators are allowed to break the previous rule for fun as long as everyone involved doesn't mind and they don't overdo it.
+#   text: Please contact an Administrator to raise concerns regarding moderators and their conduct.
 
 - name: "New Users"
   text: |
     If you want to invite someone in, you're expected to vet for them. Basically, you're partly responsible for the behavior of people you invite, at least initially.
 
-    With that in mind, please contact (ideally PM) a moderator if you want to invite someone.  
+    With that in mind, please contact a moderator if you want to invite someone.  
     The request will be passed on to the mod team, who will also do a small background check, and then can either deny the request or hand you an invite.
 
     All users, including you, join the server via this process.
