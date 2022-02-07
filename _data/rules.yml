@@ -34,14 +34,14 @@
 
     Despite having some limitations, you're expected to use this method.
 
-# - name: "Moderator Conduct"
-#   rules:
-#   - Moderators will provide concise explanations for the deletion of anyone's posts where possible, for the sake of providing context for everyone involved.
-#   - |
-#     Moderators cannot exercise their powers beyond the extent of reasonable moderation.  
-#     Moderators should not remove posts without a tangible reason, mute or deafen members arbitrarily, move members in voice against their will, etc.
-#   - Moderators are allowed to break the previous rule for fun as long as everyone involved doesn't mind and they don't overdo it.
-#   text: Please contact an Administrator to raise concerns regarding moderators and their conduct.
+- name: "Moderator Conduct"
+  rules:
+  - Moderators will provide concise explanations for the deletion of anyone's posts where possible, for the sake of providing context for everyone involved.
+  - |
+    Moderators cannot exercise their powers beyond the extent of reasonable moderation.  
+    Moderators should not remove posts without a tangible reason, mute or deafen members arbitrarily, move members in voice against their will, etc.
+  - Moderators are allowed to break the previous rule for fun as long as everyone involved doesn't mind and they don't overdo it.
+  text: Please contact an Administrator to raise concerns regarding moderators and their conduct.
 
 - name: "New Users"
   text: |
