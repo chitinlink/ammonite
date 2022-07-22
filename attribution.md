@@ -24,12 +24,12 @@ The original photo comes from [this page](https://www.fossilera.com/fossils/13-w
 * {% include emoji.html e="flushedaway" %} [Flushed Away videogame](https://en.wikipedia.org/wiki/Flushed_Away_(video_game)) boxart.
 * {% include emoji.html e="how" %} Impact font meme caption text "HOW".
 * {% include emoji.html e="skrillexpineapple" %} A picture of Skrillex holding up a pineapple.
-* {% include emoji.html e="awesome" %} The ["Awesome face"](https://knowyourmeme.com/memes/awesome-face-epic-smiley)
+* {% include emoji.html e="awesome" %} The ["Awesome face"](https://knowyourmeme.com/memes/awesome-face-epic-smiley).
 * {% include emoji.html e="children_of_dune" %} The cover to Children of Dune by Frank Herbert.
 * {% include emoji.html e="redditgold" %} Reddit Gold icon.
-* {% include emoji.html e="galaxybrain" %} Some stock photo in the style of ["Galaxy Brain"](https://knowyourmeme.com/memes/galaxy-brain)
+* {% include emoji.html e="galaxybrain" %} Some stock photo in the style of ["Galaxy Brain"](https://knowyourmeme.com/memes/galaxy-brain).
 * {% include emoji.html e="cereal" %} ["Cereal Guy"](https://knowyourmeme.com/memes/cereal-guy) spitting out his cereal.
-* {% include emoji.html e="cry_laughing" %} ["Open Eye Crying Laughing Emoji"](https://knowyourmeme.com/memes/open-eye-crying-laughing-emoji).
+* {% include emoji.html e="cry_laughing" %} ["Open Eye Crying Laughing Emoji"](https://knowyourmeme.com/memes/open-eye-crying-laughing-emoji) from the [Boomer emoji pack by Dzuk](https://dzuk.zone/emoji). ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/))
 * {% include emoji.html e="skeleton" %} [Skull from Skyrim](https://elderscrolls.fandom.com/wiki/Skull_(Skyrim)?file=Ancient_traveler%2527s_skull.png).
 * {% include emoji.html e="konata" a="" %} Cutout of Konata Izumi dancing in the [Lucky Star opening](https://www.youtube.com/watch?v=6iseNlvH2_s).
 * {% include emoji.html e="kriswiggle" a="" %}{% include emoji.html e="starwalk" a="" %} from Deltarune chapter 2.
