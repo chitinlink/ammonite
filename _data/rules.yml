@@ -16,7 +16,7 @@
 - name: "Restricted Content"
   rules:
     - |
-      This server is kept minor-friendly with the exception of the hidden channel <span class="channel">#manhole-cover</span>.  
+      This server is kept minor-friendly with the exception of the hidden channel <span class="channel">#cathouse</span>.  
       If you're not sure something belongs there, err on the side of caution and post it there.
     - Non-sexual NSFW content (eg. art with blood/gore) is allowed, as long as it is tagged appropriately.
     - Tag your slurs, including on your profile. You will be warned once if you break this rule.
