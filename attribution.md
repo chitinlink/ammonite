@@ -32,6 +32,7 @@ The original photo comes from [this page](https://www.fossilera.com/fossils/13-w
 * {% include emoji.html e="flushedaway" %} [Flushed Away videogame](https://en.wikipedia.org/wiki/Flushed_Away_(video_game)) boxart.
 * {% include emoji.html e="skrillexpineapple" %} A picture of Skrillex holding up a pineapple.
 * {% include emoji.html e="children_of_dune" %} The cover to Children of Dune by Frank Herbert.
+* {% include emoji.html e="tf2" %} Team Fortress 2 PC disc case.
 * {% include emoji.html e="konata" a="" %} Cutout of Konata Izumi dancing in the [Lucky Star opening](https://www.youtube.com/watch?v=6iseNlvH2_s).
 * {% include emoji.html e="kriswiggle" a="" %}{% include emoji.html e="starwalk" a="" %} from Deltarune chapter 2.
 * The following emojis I have yet to write attribution for, but they also don't require it as far as I know. Bother me if you want a specific one added.  
