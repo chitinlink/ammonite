@@ -40,14 +40,16 @@
   - |
     Moderators cannot exercise their powers beyond the extent of reasonable moderation.  
     Moderators should not remove posts without a tangible reason, mute or deafen members arbitrarily, move members in voice against their will, etc.
-  - Moderators are allowed to break the previous rule for fun as long as everyone involved doesn't mind and they don't overdo it.
+  - Moderators are allowed to break the previous rule for fun as long as they don't overdo it.
   text: Please contact an Administrator to raise concerns regarding moderators and their conduct.
 
 - name: "New Users"
   text: |
-    If you want to invite someone in, you're expected to vet for them. Basically, you're partly responsible for the behavior of people you invite, at least initially.
-
-    With that in mind, please contact a moderator if you want to invite someone.  
-    The request will be passed on to the mod team, who will also do a small background check, and then can either deny the request or hand you an invite.
+    Please contact a moderator if you want to invite someone. Keep in mind:
+    
+    * We may deny the request.
+    * We do not accept members below 18 years old.
+    * Members caught lying about their age will be banned permanently.
+    * You will be responsible for the person you invited. Particularly, if they get banned, so will you.
 
     All users, including you, join the server via this process.
