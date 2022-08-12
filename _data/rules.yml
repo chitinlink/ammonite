@@ -4,42 +4,41 @@
       Mind the Discord [Community Guidelines](https://discord.com/guidelines) and [Terms of Service](https://discord.com/terms).
       Violating these not only endangers the server but also the user accounts of everyone in it.
     - If you're having a real argument with someone, either focus on de-escalation or deal with it privately.
-    - Do not to alienate people talking about things they like or are passionate about -- If the topic itself makes you uncomfortable, say so, but do not interrupt it or disparage ("blast") it otherwise.
+    - Do not to alienate people talking about things they like or are passionate about.
   text: |
     Please be polite.
 
     __If a moderator asks you to stop, please do.__  
-    We don't hand out punishments here nor do we have a strike system. Our moderators will simply kick you out of calls or even the server if you take it too far.
-
-    With that said, please assume our moderators act in good faith when they correct you.
+    We do not have a strike system. Our moderators will simply kick you out of calls or even the server if you take it too far.
+    
+    If you have a problem, consider messaging a moderator about it.
 
 - name: "Restricted Content"
   rules:
     - |
       This server is kept minor-friendly with the exception of the hidden channel <span class="channel">#cathouse</span>.  
       If you're not sure something belongs there, err on the side of caution and post it there.
-    - Non-sexual NSFW content (eg. art with blood/gore) is allowed, as long as it is tagged appropriately.
-    - Tag your slurs, including on your profile. You will be warned once if you break this rule.
-    - Some of our members may require content to be tagged with triggers and we ask that you respect these once you're made aware of them.
+    - Non-sexual NSFW content (eg. art with blood/gore) is allowed, as long as it is tagged.
+    - Avoid posting slurs, and tag them appropriately when you use them.
+    - Some of our members may require certain things to be tagged and we ask that you respect these requests once you're made aware of them.
+    - |
+      The rules in this section also apply to your public Discord profile.
+      You will be warned if you break this rule.
   text: |
-    If you tag something (as some rules ask you to), you're also expected to spoiler it.
+    If you tag something (as some rules ask you to), you're also expected to [spoiler it](https://support.discord.com/hc/en-us/articles/360022320632-Spoiler-Tags-).
 
-    Keep in mind that the point of tagging content is to prevent certain people from seeing it.  
-    It's not ideal if they can figure out what you're saying from context clues.
-
-    For example:
+    The point of tagging content is to prevent certain people from seeing it.  
+    It's not ideal if they can figure out what you're saying from context clues. For example:
 
     Bad  | Hey guys I was just out drinking some (alcohol) <span class="spoiler">beer</span>
     Good | (alcohol) <span class="spoiler">Hey guys I was just out drinking some beer</span>
 
-    Despite having some limitations, you're expected to use this method.
-
 - name: "Moderator Conduct"
   rules:
-  - Moderators will provide concise explanations for the deletion of anyone's posts where possible, for the sake of providing context for everyone involved.
+  - Moderators will provide concise explanations for the deletion of messages.
   - |
     Moderators cannot exercise their powers beyond the extent of reasonable moderation.  
-    Moderators should not remove posts without a tangible reason, mute or deafen members arbitrarily, move members in voice against their will, etc.
+    Moderators should not delete messages without a reason, mute/deafen/move members arbitrarily, etc.
   - Moderators are allowed to break the previous rule for fun as long as they don't overdo it.
   text: Please contact an Administrator to raise concerns regarding moderators and their conduct.
 
@@ -50,6 +49,4 @@
     * We may deny the request.
     * We do not accept members below 18 years old.
     * Members caught lying about their age will be banned permanently.
-    * You will be responsible for the person you invited. Particularly, if they get banned, so will you.
-
-    All users, including you, join the server via this process.
+    * You will be (temporarily) responsible for the person you invited. Particularly, if they get banned, so will you.

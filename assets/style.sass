@@ -4,8 +4,8 @@
 
 $txt: #dcddde
 $bg: #202225
-$yellow: #FEE75C
-$blurple: #5865F2
+$yellow: #fee75c
+$blurple: #5865f2
 
 body
   margin: 0
@@ -36,7 +36,9 @@ nav
   margin: auto
   max-width: 800px
   width: 100%
-  margin-bottom: 10em
+
+.gutter
+  height: 10em
 
 #icon
   max-width: 100vw
@@ -44,7 +46,7 @@ nav
   margin: 1em 0
   img
     width: 100%
-    max-width: 300px
+    max-width: min(700px, 100%)
 
 h1.center
   text-align: center
@@ -95,8 +97,6 @@ section
     text-decoration: none
   &:target h2
     text-decoration: underline $yellow
-  &:last-of-type
-    margin-bottom: 25vh
 
 hr
   margin: 2em 0
@@ -127,6 +127,7 @@ li
   .rule_text
     display: inline
     padding-right: 1em
+    margin: auto 0
   &:target
     border-color: $yellow
 

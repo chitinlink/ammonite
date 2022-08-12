@@ -23,3 +23,4 @@ title: Ammonite Rules
 </section>
 {% unless forloop.last %}<hr>{% endunless %}
 {% endfor%}
+<div class="gutter"></div>
