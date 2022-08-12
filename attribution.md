@@ -29,6 +29,7 @@ The original photo comes from [this page](https://www.fossilera.com/fossils/13-w
 * {% include emoji.html e="galaxybrain" %} Some stock image in the style of ["Galaxy Brain"](https://knowyourmeme.com/memes/galaxy-brain).
 * {% include emoji.html e="skeleton" %} [Skull from Skyrim](https://elderscrolls.fandom.com/wiki/Skull_(Skyrim)?file=Ancient_traveler%2527s_skull.png).
 * {% include emoji.html e="how" %} Impact font meme caption text "HOW".
+* {% include emoji.html e="cbt" %} from the Maplestory 2 [**C**losed **B**eta **T**est](https://orangemushroom.net/2015/01/20/maplestory-2-cbt-begins-tonight/).
 * {% include emoji.html e="flushedaway" %} [Flushed Away videogame](https://en.wikipedia.org/wiki/Flushed_Away_(video_game)) boxart.
 * {% include emoji.html e="skrillexpineapple" %} A picture of Skrillex holding up a pineapple.
 * {% include emoji.html e="children_of_dune" %} The cover to Children of Dune by Frank Herbert.
