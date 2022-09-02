@@ -3,7 +3,7 @@ layout: main
 title: Ammonite Rules
 ---
 
-<div id="icon"><img src="assets/ammonite.png"></div>
+<div id="icon"><img src="assets/ammonite.svg" style="max-width: 300px"></div>
 <h1 class="center">Ammonite Rules</h1>
 {% assign rules_i = 0 %}
 {% for section in site.data.rules %}

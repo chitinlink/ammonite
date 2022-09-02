@@ -7,14 +7,16 @@ title: Ammonite Attribution
 
 ## The Ammonite
 
-<img style="max-width: 200px" src="{{ site.baseurl }}/assets/ammonite.png">
+<img src="assets/ammonite.svg" style="max-width: 200px">
 
-The original photo comes from [this page](https://www.fossilera.com/fossils/13-wide-jurassic-ammonite-fossil-madagascar) -- I edited it to be transparent.
+The current ammonite icon was commissioned (along with croissantwater below) from [Dzuk] ([x](https://twitter.com/Dzuque/status/1557193734810439680)).  
+It is licensed as [CC BY-NC-SA 4.0].
 
-{% include emoji.html e="ammonite" %}{% include emoji.html e="gold" %} Emoji versions of the ammonite icon, the second one is edited to be gold.
+{% include emoji.html e="ammonite" %}{% include emoji.html e="gold" %} Emoji versions of the icon, the second is edited to be gold.
 
 ## Emoji
 
+* {% include emoji.html e="croissantwater" %} Inexplicable croissant water emoji ([Commissioned from Dzuk](https://twitter.com/Dzuque/status/1557193734810439680)) ([CC BY-NC-SA 4.0])
 * {% include emoji.html e="nonbinary_flag" %} from [Mutant Standard] by [Dzuk]. ([CC BY-NC-SA 4.0])
 * {% include emoji.html e="agree" %}{% include emoji.html e="disagree" %} are color edits of the up and down arrows from the [Mutant Standard] ([CC BY-NC-SA 4.0])
 * {% include emoji.html e="cry_laughing" %} ["Open Eye Crying Laughing Emoji"](https://knowyourmeme.com/memes/open-eye-crying-laughing-emoji) from the [Boomer emoji pack by Dzuk](https://dzuk.zone/emoji). ([CC BY-NC-SA 4.0])
@@ -42,6 +44,15 @@ The original photo comes from [this page](https://www.fossilera.com/fossils/13-w
 <!-- ## Stickers
 {% include sticker.html s="stickername" title="sticker title" %} -->
 
+
+## The Original Ammonite
+
+<img style="max-width: 100px" src="assets/ammonite_old.png">
+
+The original ammonite icon comes from [this page][ammonite_old_source] -- I edited it to be transparent.
+
+{% include emoji.html e="ammonite_old" %}{% include emoji.html e="gold_old" %} Currently unused emoji versions of the original ammonite icon.
+
 <div class="gutter"></div>
 
 
@@ -49,3 +60,4 @@ The original photo comes from [this page](https://www.fossilera.com/fossils/13-w
 [Dzuk]:                https://dzuk.zone/
 [Mutant Standard]:     https://mutant.tech/
 [CC BY-NC-SA 4.0]:     https://creativecommons.org/licenses/by-nc-sa/4.0/
+[ammonite_old_source]: https://web.archive.org/web/20220710170037/https://www.fossilera.com/fossils/13-wide-jurassic-ammonite-fossil-madagascar
