@@ -41,9 +41,8 @@ It is licensed as [CC BY-NC-SA 4.0].
 * The following emojis I have yet to write attribution for, but they also don't require it as far as I know. Bother me if you want a specific one added.  
   {% include emoji.html e="croissantwater" %}
 
-<!-- ## Stickers
-{% include sticker.html s="stickername" title="sticker title" %} -->
-
+## Stickers
+{% include sticker.html s="trout" title="Trout!" %}
 
 ## The Original Ammonite
 
