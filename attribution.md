@@ -38,8 +38,6 @@ It is licensed as [CC BY-NC-SA 4.0].
 * {% include emoji.html e="tf2" %} Team Fortress 2 PC disc case.
 * {% include emoji.html e="konata" a="" %} Cutout of Konata Izumi dancing in the [Lucky Star opening](https://www.youtube.com/watch?v=6iseNlvH2_s).
 * {% include emoji.html e="kriswiggle" a="" %}{% include emoji.html e="starwalk" a="" %} from Deltarune chapter 2.
-* The following emojis I have yet to write attribution for, but they also don't require it as far as I know. Bother me if you want a specific one added.  
-  {% include emoji.html e="croissantwater" %}
 
 ## Stickers
 {% include sticker.html s="trout" title="Trout!" %}
