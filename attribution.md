@@ -24,6 +24,7 @@ It is licensed as [CC BY-NC-SA 4.0].
 * {% include emoji.html e="husk" %} Someone on twitter ([source dead](https://twitter.com/lauramariehart/status/1271484942887813124)) found the original 3D smiley for [this](https://knowyourmeme.com/photos/1027831-reaction-images) and applied a filter to it to achieve the same effect the printer had on it, resulting in a higher quality version. I made it [transparent](https://cdn.discordapp.com/attachments/880468064481722490/999437968609640448/husk_transparent.png), then added the default emoji skin tone to it.
 * {% include emoji.html e="awesome" %} The ["Awesome face"](https://knowyourmeme.com/memes/awesome-face-epic-smiley).
 * {% include emoji.html e="orange" %} The Annoying Orange.
+* {% include emoji.html e="wise" %} The [Wise Mystical Tree](https://knowyourmeme.com/photos/2444760-wise-mystical-tree-if-youre-over-25-and-own-a-computer-this-game-is-a-must-have)
 * {% include emoji.html e="cereal" %} ["Cereal Guy"](https://knowyourmeme.com/memes/cereal-guy) spitting out his cereal.
 * {% include emoji.html e="redditgold" %} Reddit Gold icon.
 * {% include emoji.html e="god" %} Transparent version of the [Sky Kitten](https://web.archive.org/web/20201108072520/https://www.matazone.co.uk/blog/?p=357)
@@ -40,7 +41,10 @@ It is licensed as [CC BY-NC-SA 4.0].
 * {% include emoji.html e="kriswiggle" a="" %}{% include emoji.html e="starwalk" a="" %} from Deltarune chapter 2.
 
 ## Stickers
+
 {% include sticker.html s="trout" title="Trout!" %}
+
+For when someone does something [silly](https://en.wikipedia.org/wiki/Template:Trout).
 
 ## The Original Ammonite
 
