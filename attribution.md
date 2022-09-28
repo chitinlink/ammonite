@@ -34,8 +34,10 @@ It is licensed as [CC BY-NC-SA 4.0].
 * {% include emoji.html e="how" %} Impact font meme caption text "HOW".
 * {% include emoji.html e="cbt" %} from the Maplestory 2 [**C**losed **B**eta **T**est](https://orangemushroom.net/2015/01/20/maplestory-2-cbt-begins-tonight/).
 * {% include emoji.html e="flushedaway" %} [Flushed Away videogame](https://en.wikipedia.org/wiki/Flushed_Away_(video_game)) boxart.
-* {% include emoji.html e="skrillexpineapple" %} A picture of Skrillex holding up a pineapple.
+* {% include emoji.html e="skrillexpineapple" %} A picture of Skrillex holding up a pineapple, source unknown.
 * {% include emoji.html e="children_of_dune" %} The cover to Children of Dune by Frank Herbert.
+* {% include emoji.html e="you" %} A gun pointed at the viewer, source unknown.
+* {% include emoji.html e="malice" %} Image of an evil skeleton, source unknown. [Full image](https://cdn.discordapp.com/attachments/880468064481722490/1024686759663120465/unknown.png)
 * {% include emoji.html e="tf2" %} Team Fortress 2 PC disc case.
 * {% include emoji.html e="konata" a="" %} Cutout of Konata Izumi dancing in the [Lucky Star opening](https://www.youtube.com/watch?v=6iseNlvH2_s).
 * {% include emoji.html e="kriswiggle" a="" %}{% include emoji.html e="starwalk" a="" %} from Deltarune chapter 2.
@@ -45,6 +47,12 @@ It is licensed as [CC BY-NC-SA 4.0].
 {% include sticker.html s="trout" title="Trout!" %}
 
 For when someone does something [silly](https://en.wikipedia.org/wiki/Template:Trout).
+
+## Retired
+
+* {% include emoji.html e="croissantwater_old" %} Original croissant water image. Source unknown.
+* {% include emoji.html e="cry_laughing_old" %} The original non-dzuk version of open eye crying laughing emoji.
+
 
 ## The Original Ammonite
 
