@@ -27,6 +27,7 @@ It is licensed as [CC BY-NC-SA 4.0].
 * {% include emoji.html e="wise" %} The [Wise Mystical Tree](https://knowyourmeme.com/photos/2444760-wise-mystical-tree-if-youre-over-25-and-own-a-computer-this-game-is-a-must-have)
 * {% include emoji.html e="cereal" %} ["Cereal Guy"](https://knowyourmeme.com/memes/cereal-guy) spitting out his cereal.
 * {% include emoji.html e="redditgold" %} Reddit Gold icon.
+* {% include emoji.html e="shrug" %} [Rainbow Dash shrugging, original by MegaSweet](https://web.archive.org/web/20221015012931/https://gyropedia.fandom.com/wiki/Pony_Shrug).
 * {% include emoji.html e="god" %} Transparent version of the [Sky Kitten](https://web.archive.org/web/20201108072520/https://www.matazone.co.uk/blog/?p=357)
 * {% include emoji.html e="pensiveshrimp" %} Screenshot from [Snowbound Blood](https://deconreconstruction.itch.io/snowbound-blood), a visual novel of the Homestuck fanwork "Vast Error".
 * {% include emoji.html e="galaxybrain" %} Some stock image in the style of ["Galaxy Brain"](https://knowyourmeme.com/memes/galaxy-brain).
