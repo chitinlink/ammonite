@@ -49,6 +49,11 @@ It is licensed as [CC BY-NC-SA 4.0].
 
 For when someone does something [silly](https://en.wikipedia.org/wiki/Template:Trout).
 
+{% include sticker.html s="officer_down" title="OFFICER DOWN!" %}
+
+[Source](https://notravian.tumblr.com/post/658692483218309120)
+
+
 ## Retired
 
 * {% include emoji.html e="croissantwater_old" %} Original croissant water image. Source unknown.
