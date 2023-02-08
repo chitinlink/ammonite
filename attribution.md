@@ -51,7 +51,7 @@ For when someone does something [silly](https://en.wikipedia.org/wiki/Template:T
 
 {% include sticker.html s="officer_down" title="OFFICER DOWN!" %}
 
-[Source](https://notravian.tumblr.com/post/658692483218309120)
+[Source](https://www.tumblr.com/notravian/658692483218309120), [confirmed](https://www.tumblr.com/notravian/708654629300338688)
 
 
 ## Retired
