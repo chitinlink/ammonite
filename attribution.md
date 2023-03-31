@@ -10,9 +10,20 @@ title: Ammonite Attribution
 <img src="assets/ammonite.svg" style="max-width: 200px">
 
 The current ammonite icon was commissioned (along with croissantwater below) from [Dzuk] ([x](https://twitter.com/Dzuque/status/1557193734810439680)).  
-It is licensed as [CC BY-NC-SA 4.0].
 
 {% include emoji.html e="ammonite" %}{% include emoji.html e="gold" %} Emoji versions of the icon, the second is edited to be gold.
+
+Licensed as [CC BY-NC-SA 4.0].
+
+## Ammonite Flag
+
+<img src="assets/ammonite_flag_big.png" style="max-width: 300px">
+
+This flag was commissioned from [Dzuk]. The inspiration for it came from this [artist's rendition](https://commons.wikimedia.org/wiki/File:Impact_event.jpg) of the [K-Pg extinction event](https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event), which wiped out ammonites.  
+
+{% include emoji.html e="ammonite_flag" %} Emoji version of the flag, with the details edited down.
+
+Licensed as [CC BY-NC-SA 4.0].
 
 ## Emoji
 
@@ -62,14 +73,14 @@ For when someone does something [silly](https://en.wikipedia.org/wiki/Template:T
 
 ## The Original Ammonite
 
-<img style="max-width: 100px" src="assets/ammonite_old.png">
+<img src="assets/ammonite_old.png" style="max-width: 100px">
 
 The original ammonite icon comes from [this page][ammonite_old_source] -- I edited it to be transparent.
 
 {% include emoji.html e="ammonite_old" %}{% include emoji.html e="gold_old" %} Currently unused emoji versions of the original ammonite icon.
 
-<div class="gutter"></div>
 
+<div class="gutter"></div>
 
 
 [Dzuk]:                https://dzuk.zone/
