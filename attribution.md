@@ -56,6 +56,10 @@ Licensed as [CC BY-NC-SA 4.0].
 
 ## Stickers
 
+{% include sticker.html s="flag" title="Ammonite Flag" %}
+
+A waving flag.
+
 {% include sticker.html s="trout" title="Trout!" %}
 
 For when someone does something [silly](https://en.wikipedia.org/wiki/Template:Trout).
