@@ -49,6 +49,7 @@ Licensed as [CC BY-NC-SA 4.0].
 * {% include emoji.html e="skrillexpineapple" %} A picture of Skrillex holding up a pineapple, source unknown.
 * {% include emoji.html e="children_of_dune" %} The cover to Children of Dune by Frank Herbert.
 * {% include emoji.html e="you" %} A gun pointed at the viewer, source unknown.
+* {% include emoji.html e="deoxys" %} A plushie of the pokémon Deoxys.
 * {% include emoji.html e="malice" %} Image of an evil skeleton, source unknown. [Full image](https://cdn.discordapp.com/attachments/880468064481722490/1024686759663120465/unknown.png)
 * {% include emoji.html e="tf2" %} Team Fortress 2 PC disc case.
 * {% include emoji.html e="konata" a="" %} Cutout of Konata Izumi dancing in the [Lucky Star opening](https://www.youtube.com/watch?v=6iseNlvH2_s).
