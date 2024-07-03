@@ -54,7 +54,7 @@ Licensed as [CC BY-NC-SA 4.0].
 * {% include emoji.html e="ohio" %} [The official seal of the US state of Ohio](https://en.wikipedia.org/wiki/Ohio).
 * {% include emoji.html e="inkblot" %} An [inkblot](https://en.wikipedia.org/wiki/Inkblot).
 * {% include emoji.html e="holdingback" %} [Original Twemoji 14.0 Face Holding Back Tears emoji](https://emojipedia.org/twitter/twemoji-14.0/face-holding-back-tears)
-* {% include emoji.html e="rarebird" %} Team Fortress 2 PC disc case.
+* {% include emoji.html e="rarebird" %} [A "rare bird"](https://www.youtube.com/clip/Ugkx117JHu1SNAUwOKppoZJuAORMV1p45ys9).
 * {% include emoji.html e="duel" %} [TF2 Dueling Mini-Game](https://wiki.teamfortress.com/wiki/Dueling_Mini-Game)
 * {% include emoji.html e="adrian" %} Adrian's Trinket.
 * {% include emoji.html e="ada" %} Ada's bug girl.
