@@ -51,7 +51,15 @@ Licensed as [CC BY-NC-SA 4.0].
 * {% include emoji.html e="you" %} A gun pointed at the viewer, source unknown.
 * {% include emoji.html e="deoxys" %} A plushie of the pokémon Deoxys.
 * {% include emoji.html e="malice" %} Image of an evil skeleton, source unknown. [Full image](https://cdn.discordapp.com/attachments/880468064481722490/1024686759663120465/unknown.png)
-* {% include emoji.html e="tf2" %} Team Fortress 2 PC disc case.
+* {% include emoji.html e="ohio" %} [The official seal of the US state of Ohio](https://en.wikipedia.org/wiki/Ohio).
+* {% include emoji.html e="inkblot" %} An [inkblot](https://en.wikipedia.org/wiki/Inkblot).
+* {% include emoji.html e="holdingback" %} [Original Twemoji 14.0 Face Holding Back Tears emoji](https://emojipedia.org/twitter/twemoji-14.0/face-holding-back-tears)
+* {% include emoji.html e="rarebird" %} Team Fortress 2 PC disc case.
+* {% include emoji.html e="duel" %} [TF2 Dueling Mini-Game](https://wiki.teamfortress.com/wiki/Dueling_Mini-Game)
+* {% include emoji.html e="adrian" %} Adrian's Trinket.
+* {% include emoji.html e="ada" %} Ada's bug girl.
+* {% include emoji.html e="dutch" %}{% include emoji.html e="american" %} [Leader icons from Civilization IV](https://civilization.fandom.com/wiki/Leaders_(Civ4)).
+* {% include emoji.html e="toothfairy" %} Francis Dollarhyde from [Manhunter (1986)](https://en.wikipedia.org/wiki/Manhunter_(film))
 * {% include emoji.html e="konata" a="" %} Cutout of Konata Izumi dancing in the [Lucky Star opening](https://www.youtube.com/watch?v=6iseNlvH2_s).
 * {% include emoji.html e="kriswiggle" a="" %}{% include emoji.html e="starwalk" a="" %} from Deltarune chapter 2.
 

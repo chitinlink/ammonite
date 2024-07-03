@@ -1,6 +1,6 @@
 title: Ammonite Rules
 url: "https://ammonite.chitin.link"
-baseurl: "/"
+baseurl: ""
 
 safe: true
 markdown: kramdown
