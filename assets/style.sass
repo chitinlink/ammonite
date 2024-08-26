@@ -2,10 +2,12 @@
 
 ---
 
-$txt: #dcddde
-$bg: #202225
-$yellow: #fee75c
-$blurple: #5865f2
+$txt: #d0ded6
+$bg: #2b2d31
+$contentbg: #313338
+$green: #57F287
+$blurple: #5865F2
+$link: #00a8fc
 
 body
   margin: 0
@@ -19,23 +21,36 @@ body
   overflow-y: scroll
 
 a, a:visited
-  color: $blurple
+  color: $link
+
+header
+  position: sticky
+  top: 0
+  max-width: 820px
+  padding: 1em
+  width: 100%
+  border-bottom: 1px solid $txt
+  background: $bg
 
 nav
   display: flex
-  margin: 1em auto 0 auto
-  max-width: 800px
-  width: 100%
+  align-items: center
+  height: 3em
   a
     border: solid 2px lighten($bg, 30%)
     padding: .5em 1em
     text-decoration: none
     margin-right: 1em
 
+[id]
+  scroll-margin-top: 6em
+
 #wrap
   margin: auto
-  max-width: 800px
+  max-width: 820px
+  padding: 0 1em
   width: 100%
+  background: $contentbg
 
 .gutter
   height: 10em
@@ -96,7 +111,7 @@ section
   h2 > a
     text-decoration: none
   &:target h2
-    text-decoration: underline $yellow
+    text-decoration: underline $green
 
 hr
   margin: 2em 0
@@ -129,7 +144,7 @@ li
     padding-right: 1em
     margin: auto 0
   &:target
-    border-color: $yellow
+    border-color: $green
 
 img.emoji
   object-fit: contain
