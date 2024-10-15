@@ -1,29 +1,39 @@
-- name: "Conduct"
-  rules:
-    - |
-      Mind the Discord [Community Guidelines](https://discord.com/guidelines) and [Terms of Service](https://discord.com/terms).
-      Violating these not only endangers the server but also the user accounts of everyone in it.
-    - If you're having a real argument with someone, either focus on de-escalation or deal with it privately.
-    - Do not to alienate people talking about things they like or are passionate about.
+- rules:
+  - Server staff have final say on all matters regarding moderation, regardless of what the rules say.
+  - |
+    Respect the Discord [Community Guidelines](https://discord.com/guidelines) and [Terms of Service](https://discord.com/terms).  
+    Violating these not only endangers the server but also the user accounts of everyone in it.
   text: |
-    Please be polite.
-
-    __If a moderator asks you to stop, please do.__  
-    We do not have a strike system. Our moderators will simply kick you out of calls or even the server if you take it too far.
+    We do not have a strike system. Staff will simply kick you out of calls or even the server if you take it too far.
     
-    If you have a problem, consider messaging a moderator about it.
+    Please contact staff about any concerns you may have.  
+    You can use the <span class="command">/modmail</span> command which has an anonymous option.
+
+- name: "Netiquette"
+  rules:
+    - Be polite and respectful, both of the people and the space.
+  text: |
+    For example:
+    * If you're having an argument, de-escalate or deal with it privately.
+    * Do not alienate people talking about things they like or are passionate about.
+    * In general, avoid aggressive behavior.
+
+    Please do your part to keep this server in good working order, too. Post pertinently in the right channels, make liberal use of message links, and finally avoid spamming unless you're in <span class="channel"># service-hatch</span>.
+
+- name: "Staff Conduct"
+  rules:
+  - Staff cannot exercise their powers without good reason, and must provide an explanation if asked for one.
+  - Staff is allowed to exercise their powers for fun once in a while.
+  text: You may contact an Administrator to raise concerns regarding other members of staff.
 
 - name: "Restricted Content"
   rules:
-    - |
-      This server is kept minor-friendly with the exception of the hidden channel <span class="channel">#cathouse</span>.  
-      If you're not sure something belongs there, err on the side of caution and post it there.
-    - Non-sexual NSFW content (eg. art with blood/gore) is allowed, as long as it is tagged.
     - Avoid posting slurs, and tag them appropriately when you use them.
-    - Some of our members may require certain things to be tagged and we ask that you respect these requests once you're made aware of them.
+    - Sexual NSFW content (ie. porn) is not to be posted anywhere on the server.
     - |
-      The rules in this section also apply to your public Discord profile.
-      You will be warned if you break this rule.
+      All other NSFW content belongs in the opt-in hidden channel <span class="channel"># cathouse</span>.  
+      If you're not sure something belongs there, err on the side of caution and post it there.
+    - Server members may ask for certain things to be tagged and we ask that you respect these requests once you're made aware of them.
   text: |
     If you tag something (as some rules ask you to), you're also expected to [spoiler it](https://support.discord.com/hc/en-us/articles/360022320632-Spoiler-Tags-).
 
@@ -33,20 +43,12 @@
     Bad  | Hey guys I was just out drinking some (alcohol) <span class="spoiler">beer</span>
     Good | (alcohol) <span class="spoiler">Hey guys I was just out drinking some beer</span>
 
-- name: "Moderator Conduct"
-  rules:
-  - Moderators will provide concise explanations for the deletion of messages.
-  - |
-    Moderators cannot exercise their powers beyond the extent of reasonable moderation.  
-    Moderators should not delete messages without a reason, mute/deafen/move members arbitrarily, etc.
-  - Moderators are allowed to break the previous rule for fun as long as they don't overdo it.
-  text: Please contact an Administrator to raise concerns regarding moderators and their conduct.
-
 - name: "New Users"
   text: |
-    Please contact a moderator if you want to invite someone. Keep in mind:
-    
+    Contact a member of staff if you want to invite someone.  
+    Please send them a link to this page ahead of time so they can familiarize themselves with the rules.
+
+    * You must vouch for the person you want to invite.
     * We may deny the request.
-    * We do not accept members below 18 years old.
-    * Members caught lying about their age will be banned permanently.
-    * You will be (temporarily) responsible for the person you invited. Particularly, if they get banned, so will you.
+    * We do not accept members under 18 years old.
+      * Members caught lying about meeting the age requirement will be banned permanently.

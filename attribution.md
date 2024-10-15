@@ -93,8 +93,6 @@ The original ammonite icon comes from [this page][ammonite_old_source] -- I edit
 {% include emoji.html e="ammonite_old" %}{% include emoji.html e="gold_old" %} Currently unused emoji versions of the original ammonite icon.
 
 
-<div class="gutter"></div>
-
 
 [Dzuk]:                https://dzuk.zone/
 [Mutant Standard]:     https://mutant.tech/
