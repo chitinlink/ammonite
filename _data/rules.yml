@@ -31,11 +31,11 @@
     - Avoid posting slurs, and tag them appropriately when you use them.
     - Sexual NSFW content (ie. porn) is not to be posted anywhere on the server.
     - |
-      All other NSFW content belongs in the opt-in hidden channel <span class="channel"># cathouse</span>.  
+      All other NSFW content belongs in the <span style="text-decoration: underline; text-decoration-style: dotted; cursor: help" title="/role add role:@Cathouse">opt-in</span> hidden channel <span class="channel"># cathouse</span>.  
       If you're not sure something belongs there, err on the side of caution and post it there.
     - Server members may ask for certain things to be tagged and we ask that you respect these requests once you're made aware of them.
   text: |
-    If you tag something (as some rules ask you to), you're also expected to [spoiler it](https://support.discord.com/hc/en-us/articles/360022320632-Spoiler-Tags-).
+    If you tag something (as some rules ask you to), you're also expected to <a href="https://support.discord.com/hc/en-us/articles/360022320632-Spoiler-Tags-" target="_blank">spoiler it</a>.
 
     The point of tagging content is to prevent certain people from seeing it.  
     It's not ideal if they can figure out what you're saying from context clues. For example:
@@ -43,7 +43,7 @@
     Bad  | Hey guys I was just out drinking some (alcohol) <span class="spoiler">beer</span>
     Good | (alcohol) <span class="spoiler">Hey guys I was just out drinking some beer</span>
 
-- name: "New Users"
+- name: "Invite Policy"
   text: |
     Contact a member of staff if you want to invite someone.  
     Please send them a link to this page ahead of time so they can familiarize themselves with the rules.
@@ -52,3 +52,12 @@
     * We may deny the request.
     * We do not accept members under 18 years old.
       * Members caught lying about meeting the age requirement will be banned permanently.
+
+- name: "For new members"
+  text: |
+    Welcome! These are recommendations:
+    * It isn't required to introduce yourself, but if you want to, send a message in <span class="channel"># curbside</span>
+    * Consider changing your name color with the <span class="command">/color</span> command
+    * Have a look at <span class="channel"># crucial</span> - It has some basic server info including a channel directory
+    * Mute the spam channel <span class="channel"># service-hatch</span>
+    * Check out upcoming events in the <span class="channel"># events</span> channel
